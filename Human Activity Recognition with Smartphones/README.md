@@ -1,0 +1,1 @@
+Competion URL：https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphones
